@@ -1,0 +1,5 @@
+name: tensorflow-test
+dependencies:
+    - python=3
+    - numpy
+    - tensorflow-test
