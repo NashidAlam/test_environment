@@ -3,3 +3,4 @@ dependencies:
     - python=3
     - numpy
     - tensorflow-gpu
+    - imageio=2.5.0
